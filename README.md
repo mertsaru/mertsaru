@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science in Hochschule Mittweida, Germany
 - 📫 How to reach me;
   - msaruhan@hs- mittweida.de
-  -https://www.linkedin.com/in/mertsaruhan/
+  - https://www.linkedin.com/in/mertsaruhan/
 
 <!---
 mertsaru/mertsaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
