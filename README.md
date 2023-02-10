@@ -9,18 +9,18 @@
                                      
     Data Manuplation Libraries        
     - PySpark                         
-    - Pandas                          
-    - OpenCV  
+    - Pandas                            
                       
     Visualization Libraries
     - Matplotlib                   
     - Seaborn                      
-    - re  
+    - Pillow
+    - OpenCV 
                              
     Misc.
     - NumPy
     - os
-    - Pillow
+    - re
  
  - Other programing languages and sofware
    - SQL           - R            - HTML      - Jupyter Notebook      - MATLAB       
