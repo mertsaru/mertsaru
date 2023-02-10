@@ -3,17 +3,20 @@
 - 🌱 I’m currently learning data science in Hochschule Mittweida, Germany
 - Experienced in following Python Libraries:
     ML Libraries        
-      - PyTorch           
-      - TensorFlow        
-      - Scikit-Learn                                        
+    - PyTorch           
+    - TensorFlow        
+    - Scikit-Learn   
+    -                                      
     Data Manuplation Libraries        
-      - PySpark                         
-      - Pandas                          
-      - OpenCV                       
+    - PySpark                         
+    - Pandas                          
+    - OpenCV  
+    -                      
     Visualization Libraries
     - Matplotlib                   
     - Seaborn                      
-    - re                              
+    - re  
+    -                             
     Misc.
     - NumPy
     - os
