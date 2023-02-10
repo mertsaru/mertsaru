@@ -6,17 +6,17 @@
     - PyTorch           
     - TensorFlow        
     - Scikit-Learn   
-    -                                      
+                                     
     Data Manuplation Libraries        
     - PySpark                         
     - Pandas                          
     - OpenCV  
-    -                      
+                      
     Visualization Libraries
     - Matplotlib                   
     - Seaborn                      
     - re  
-    -                             
+                             
     Misc.
     - NumPy
     - os
