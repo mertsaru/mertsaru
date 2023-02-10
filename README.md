@@ -23,7 +23,7 @@
     - os
     - re
  
- - Other programing languages and sofware
+ Other programing languages and sofware
    - SQL           - R            - HTML      - Jupyter Notebook      - MATLAB       
    - Tableau       - JSON         - Git       - DataBricks
    - MS Office     - Markdown     - LaTeX     - Julia
