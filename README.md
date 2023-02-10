@@ -2,12 +2,23 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data science in Hochschule Mittweida, Germany
 - Experienced in following Python Libraries:
-    ML Libraries        Data Manuplation Libraries        Visualization Libraries        Misc.
-      - PyTorch           - PySpark                         - Matplotlib                   - NumPy
-      - TensorFlow        - Pandas                          - Seaborn                      - os
-      - Scikit-Learn                                        - OpenCV                       - re
-                                                            - Pillow
-      
+    ML Libraries        
+      - PyTorch           
+      - TensorFlow        
+      - Scikit-Learn                                        
+    Data Manuplation Libraries        
+      - PySpark                         
+      - Pandas                          
+      - OpenCV                       
+    Visualization Libraries
+    - Matplotlib                   
+    - Seaborn                      
+    - re                              
+    Misc.
+    - NumPy
+    - os
+    - Pillow
+ 
  - Other programing languages and sofware
    - SQL           - R            - HTML      - Jupyter Notebook      - MATLAB       
    - Tableau       - JSON         - Git       - DataBricks
