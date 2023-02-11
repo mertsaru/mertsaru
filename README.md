@@ -8,18 +8,18 @@
     - TensorFlow        
     - Scikit-Learn   
                                      
-    Data Manuplation Libraries        
+    Data Processing Libraries        
     - PySpark                         
     - Pandas                            
-                      
+    - NumPy
+    - Pillow
+    - OpenCV 
+    
     Visualization Libraries
     - Matplotlib                   
     - Seaborn                      
-    - Pillow
-    - OpenCV 
                              
     Misc.
-    - NumPy
     - os
     - re
  
