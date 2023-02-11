@@ -24,14 +24,20 @@
     - re
  
  Other programing languages and sofware
-   - SQL           - R            - HTML      - Jupyter Notebook      - MATLAB       
-   - Tableau       - JSON         - Git       - DataBricks
-   - MS Office     - Markdown     - LaTeX     - Julia
-    
-    
-      
-    
-      
+   - SQL           
+   - R            
+   - HTML      
+   - Jupyter Notebook      
+   - MATLAB       
+   - Tableau       
+   - JSON         
+   - Git       
+   - DataBricks
+   - MS Office     
+   - Markdown     
+   - LaTeX     
+   - Julia
+        
 - 📫 How to reach me;
   - msaruhan@hs-mittweida.de
   - https://www.linkedin.com/in/mertsaruhan/
