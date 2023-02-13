@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert Saruhan
-- 👀 Especially interested in csv and image/video machine learning
+- 👀 I am a data scientist, interested in csv and image/video machine learning
 - 🌱 Currently learning data science in Hochschule Mittweida, Germany
 - Experienced in following Python Libraries:
     
