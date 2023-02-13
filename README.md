@@ -14,6 +14,7 @@
     - NumPy
     - Pillow
     - OpenCV 
+    - Scikit-Image
     
     Visualization Libraries
     - Matplotlib                   
