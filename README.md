@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Saruhan
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data science in Hochschule Mittweida, Germany
+- 👀 Especially interested in csv and image/video machine learning
+- 🌱 Currently learning data science in Hochschule Mittweida, Germany
 - Experienced in following Python Libraries:
     
     ML Libraries        
@@ -24,19 +24,19 @@
     - re
  
  Other programing languages and sofware
-   - SQL           
-   - R            
-   - HTML      
-   - Jupyter Notebook      
-   - MATLAB       
-   - Tableau       
-   - JSON         
-   - Git       
+   - SQL
+   - Tableau 
+   - R     
    - DataBricks
-   - MS Office     
+   - Git
+   - Jupyter Notebook      
+   - JSON
+   - MS Office
+   - Julia
+   - MATLAB       
+   - HTML 
    - Markdown     
    - LaTeX     
-   - Julia
         
 - 📫 How to reach me;
   - msaruhan@hs-mittweida.de
