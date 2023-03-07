@@ -29,13 +29,11 @@
    - Tableau 
    - R     
    - DataBricks
-   - Git
-   - Jupyter Notebook      
+   - Bash  
    - JSON
    - MS Office
    - Julia
    - MATLAB       
-   - HTML 
    - Markdown     
    - LaTeX     
         
