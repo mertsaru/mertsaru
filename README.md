@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert Saruhan
-- 👀 I am a data scientist, interested in csv and image/video machine learning
+- 👀 I am a data scientist, interested in image/video machine learning
 - 🌱 Currently learning data science in Hochschule Mittweida, Germany
 - Experienced in following Python Libraries:
     
@@ -19,10 +19,6 @@
     Visualization Libraries
     - Matplotlib                   
     - Seaborn                      
-                             
-    Misc.
-    - os
-    - re
  
  Other programing languages and sofware
    - SQL
