@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Saruhan
 - 👀 I am a data scientist
-- 📚 Currently learning data science in Hochschule Mittweida, Germany
+- 📚 Currently studying data science in University of Applied Sciences Mittweida, Germany
 - 💻 Working at mrge as data engineer intern
         
 - 📫 How to reach me;
