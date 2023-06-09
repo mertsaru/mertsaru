@@ -1,40 +1,10 @@
 - 👋 Hi, I’m Mert Saruhan
-- 👀 I am a data scientist, interested in image/video machine learning
-- 🌱 Currently learning data science in Hochschule Mittweida, Germany
-- Experienced in following Python Libraries:
-    
-    ML Libraries        
-    - PyTorch           
-    - TensorFlow        
-    - Scikit-Learn   
-                                     
-    Data Processing Libraries        
-    - PySpark                         
-    - Pandas                            
-    - NumPy
-    - Pillow
-    - OpenCV 
-    - Scikit-Image
-    
-    Visualization Libraries
-    - Matplotlib                   
-    - Seaborn                      
- 
- Other programing languages and sofware
-   - SQL
-   - Tableau 
-   - R     
-   - DataBricks
-   - Bash  
-   - JSON
-   - MS Office
-   - Julia
-   - MATLAB       
-   - Markdown     
-   - LaTeX     
+- 👀 I am a data scientist
+- 📚 Currently learning data science in Hochschule Mittweida, Germany
+- 💻 Working at mrge as data engineer intern
         
 - 📫 How to reach me;
-  - msaruhan@hs-mittweida.de
+  - msaruhan@hs-mittweida.de / mertsaruhn@gmail.com
   - https://www.linkedin.com/in/mertsaruhan/
 
 <!---
