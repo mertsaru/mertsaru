@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Mert Saruhan
+- 👋 Hi, I’m Mert
 - 👀 I am a data scientist
-- 📚 Currently studying data science in University of Applied Sciences Mittweida, Germany
-- 💻 Working at mrge as data engineer intern
+- 📚 Currently writing master thesis on "LVQ and cognitive science" in University of Applied Sciences Mittweida, Germany
+- 💻 Working at mrge as data engineer part-time
+- 🦾 Have experience on Computer Vision, Deep Learning, and NLP
         
 - 📫 How to reach me;
-  - msaruhan@hs-mittweida.de / mertsaruhn@gmail.com
-  - https://www.linkedin.com/in/mertsaruhan/
+    - msaruhan@hs-mittweida.de / mertsaruhn@gmail.com
+    - https://www.linkedin.com/in/mertsaruhan/
 
 <!---
 mertsaru/mertsaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
