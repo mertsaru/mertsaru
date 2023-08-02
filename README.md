@@ -6,7 +6,7 @@
         
 - 📫 How to reach me;
     - msaruhan@hs-mittweida.de / mertsaruhn@gmail.com
-    - https://www.linkedin.com/in/mertsaruhan/
+    - https://www.linkedin.com/in/mertsaru/
 
 <!---
 mertsaru/mertsaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
