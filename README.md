@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Mert
-- 👀 I am a data scientist
-- 📚 Currently writing master thesis on "LVQ and cognitive science" in University of Applied Sciences Mittweida, Germany
-- 💻 Working at mrge as data engineer part-time
+- 👀 I am a data scientist and looking for jobs, preferably LLM 
+- 📚 Graduating in October 2023 from Master's degree of Data Science 
 - 🦾 Have experience on Computer Vision, Deep Learning, and NLP
         
 - 📫 How to reach me;
-    - msaruhan@hs-mittweida.de / mertsaruhn@gmail.com
+    - mertsaruhn@gmail.com
     - https://www.linkedin.com/in/mertsaru/
 
 <!---
