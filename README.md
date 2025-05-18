@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Mert
-- 👀 I am a data scientist and looking for jobs, preferably LLM 
-- 📚 Graduating in October 2023 from Master's degree of Data Science 
-- 🦾 Have experience on Computer Vision, Deep Learning, and NLP
-        
+- 👀 I am an AI Enginner working in Germany
+- My skills include:
+    - Computer Vision
+    - Forecasting with ML
+    - LLM development
+    - RAG development
+    - 
 - 📫 How to reach me;
-    - mertsaruhn@gmail.com
+    - mertsaruhan@hotmail.com
     - https://www.linkedin.com/in/mertsaru/
 
 <!---
