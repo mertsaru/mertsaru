@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Mert
-- 👀 I am an AI Enginner working in Germany
+- Hi, I’m Mert
+- I am an AI Enginner working in Germany
 - My skills include:
     - Computer Vision
     - Forecasting with ML
     - LLM development
     - RAG development
-    - 
+
 - 📫 How to reach me;
     - mertsaruhan@hotmail.com
     - https://www.linkedin.com/in/mertsaru/
