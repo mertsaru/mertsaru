@@ -1,26 +1,20 @@
-Hi, I'm Mert – a passionate Machine Learning & AI Engineer based in Germany.
+## Hi, I'm Mert 👋
 
-By day, I work on real-world AI solutions—building custom LLMs, optimizing ML pipelines, and deploying intelligent systems. From real-time object detection to multilingual RAG chatbots and time-series forecasting, I love turning complex problems into production-ready AI tools.
+I'm a freelance **AI/ML Engineer** based in Germany, helping companies design, build, and ship production-ready AI systems. My skills include: LLM applications, STT-TTS system, computer vision, and forecasting models.
 
-By night, you'll find me experimenting with my own custom LLM stack and working on a stock forecasting platform powered by AI.
+I work across the full stack of applied AI: fine-tuning and deploying custom LLMs, building agentic RAG chatbots with STT-TTS, engineering real-time object detection pipelines, and developing time-series forecasting solutions. My focus isn't just prototypes — it's getting AI systems reliably into production.
 
+Outside client work, I build my own projects and experimenting with local LLM stacks at home
 
-📡 Side interests:
-Running my own home server, automating my smart home, and tinkering with generative AI systems.
+**Open to freelance projects** in computer vision, LLM/RAG development, STT-TTS systems, and forecasting — if that's what you need, let's talk.
 
-Let’s connect or collaborate—whether you're into AI systems, forecasting models, or just want to nerd out over LLM internals.
+### 🛠️ Skills
+- Computer Vision
+- ML-based Forecasting
+- LLM Development
+- RAG Development
+- TTS Development
 
-- My skills include:
-    - Computer Vision
-    - Forecasting with ML
-    - LLM development
-    - RAG development
-
-- 📫 How to reach me;
-    - mertsaruhan@hotmail.com
-    - https://www.linkedin.com/in/mertsaru/
-
-<!---
-mertsaru/mertsaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Get in touch
+- ✉️ [mertsaruhan@hotmail.com](mailto:mertsaruhan@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mertsaru/)
