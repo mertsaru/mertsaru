@@ -17,4 +17,4 @@ Outside client work, I build my own projects and experimenting with local LLM st
 
 ### 📫 Get in touch
 - ✉️ [mertsaruhan@hotmail.com](mailto:mertsaruhan@hotmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mertsaru/)
+- 💼 [linkedin.com/in/mertsaru/](https://www.linkedin.com/in/mertsaru/)
