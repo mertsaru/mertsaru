@@ -46,4 +46,4 @@ Docker • Kubernetes • MLflow • LangFuse • Azure AI Foundry • GCP • L
 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mertsaru/)
-- [Email](mailto: mertsaruhan@hotmail.com)
+- <a href="mailto:mertsaruhan@hotmail.com">mertsaruhan@hotmail.com</a>
