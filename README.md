@@ -43,15 +43,7 @@ Docker • Kubernetes • MLflow • LangFuse • Azure AI Foundry • GCP • L
 
 ---
 
-📊 GitHub Stats
-
-"stats" (https://github-readme-stats.vercel.app/api?username=mertsaru&show_icons=true&theme=tokyonight)
-
-"languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=mertsaru&layout=compact&theme=tokyonight)
-
----
-
 📫 Connect
 
-- (LinkedIn)[https://www.linkedin.com/in/mertsaru/]
-- (Email)[mailto: mertsaruhan@hotmail.com]
+- [LinkedIn](https://www.linkedin.com/in/mertsaru/)
+- [Email](mailto: mertsaruhan@hotmail.com)
