@@ -1,20 +1,57 @@
-## Hi, I'm Mert 👋
+Hi 👋 I'm Mert Saruhan
 
-I'm a freelance **AI/ML Engineer** based in Germany, helping companies design, build, and ship production-ready AI systems. My skills include: LLM applications, STT-TTS system, computer vision, and forecasting models.
+Senior ML / AI Engineer • LLMs • Agentic AI • MLOps
 
-I work across the full stack of applied AI: fine-tuning and deploying custom LLMs, building agentic RAG chatbots with STT-TTS, engineering real-time object detection pipelines, and developing time-series forecasting solutions. My focus isn't just prototypes, it's getting AI systems reliably into production.
+I'm a Machine Learning & AI Engineer building production-ready AI systems from data pipelines to enterprise LLM deployments.
 
-Outside client work, I build my own projects and experimenting with local LLM stacks at home
+My work focuses on Agentic AI, Retrieval-Augmented Generation (RAG), LLM Infrastructure, Computer Vision, and Time-Series Forecasting.
 
-**Open to freelance projects** in computer vision, LLM/RAG development, STT-TTS systems, and forecasting — if that's what you need, let's talk.
+---
 
-### 🛠️ Skills
-- Computer Vision
-- ML-based Forecasting
-- LLM Development
-- RAG Development
-- TTS Development
+Currently Working on:
 
-### 📫 Get in touch
-- ✉️ [mertsaruhan@hotmail.com](mailto:mertsaruhan@hotmail.com)
-- 💼 [linkedin.com/in/mertsaru/](https://www.linkedin.com/in/mertsaru/)
+🤖 Local AI Home Agent
+
+Self-hosted AI assistant harness to improve Home Assistant
+
+Features
+
+- Web Search with Searxng
+- RAG
+- Voice Commands
+- Email Automation
+- Calendar
+- Home Network Knowledge Base
+
+🛠 AI Stack
+
+Languages
+
+Python • TypeScript • JavaScript • Julia • SQL • Bash
+
+LLM Ecosystem
+
+LangChain • LangGraph • HuggingFace • Transformers • Ollama • ChromaDB • pgvector • FastMCP • NLTK
+
+AI / ML
+
+PyTorch • Scikit-Learn • LightGBM • YOLO • OCR • Tesseract
+
+Cloud & MLOps
+
+Docker • Kubernetes • MLflow • LangFuse • Azure AI Foundry • GCP • Linux • Nginx • FastAPI
+
+---
+
+📊 GitHub Stats
+
+"stats" (https://github-readme-stats.vercel.app/api?username=mertsaru&show_icons=true&theme=tokyonight)
+
+"languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=mertsaru&layout=compact&theme=tokyonight)
+
+---
+
+📫 Connect
+
+- (LinkedIn)[https://www.linkedin.com/in/mertsaru/]
+- (Email)[mailto: mertsaruhan@hotmail.com]
